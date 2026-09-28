@@ -1,3 +1,3 @@
-# Amazon Project
+## 🌐 Live Website
 
-[🌐 Live Website]([https://shacheemishra.github.io/Amazon-Project/])
+[View Live Website](https://shacheemishra.github.io/Amazon-Project/)
